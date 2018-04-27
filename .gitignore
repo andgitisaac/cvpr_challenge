@@ -1,0 +1,9 @@
+dataset/
+fcn32_model/
+fcn8_model/
+output/
+splitData/
+*.log
+*.out
+*.zip
+*.h5
