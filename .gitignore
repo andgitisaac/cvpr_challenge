@@ -3,6 +3,11 @@ fcn32_model/
 fcn8_model/
 output/
 splitData/
+*.pyc
+*.jpg
+*.png
+*.npy
+*.npz
 *.log
 *.out
 *.zip
